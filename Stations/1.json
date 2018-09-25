@@ -6,23 +6,23 @@
 	"country": "ru",
 	"streams": [{
 			"bitrate": "48",
-			"url": "radiostrfm.no-ip.biz:8000/48",
-			"type": "audio/mpeg"
+			"stream": "radiostrfm.no-ip.biz:8000/48",
+			"contentType": "audio/mpeg"
 		},
 		{
 			"bitrate": "128",
-			"url": "radiostrfm.no-ip.biz:8000/live",
-			"type": "audio/mpeg"
+			"stream": "radiostrfm.no-ip.biz:8000/live",
+			"contentType": "audio/mpeg"
 		},
 		{
 			"bitrate": "192",
-			"url": "rradiostrfm.no-ip.biz:8000/192",
-			"type": "audio/mpeg"
+			"stream": "rradiostrfm.no-ip.biz:8000/192",
+			"contentType": "audio/mpeg"
 		},
 		{
 			"bitrate": "320",
-			"url": "radiostrfm.no-ip.biz:8000/320",
-			"type": "audio/mpeg"
+			"stream": "radiostrfm.no-ip.biz:8000/320",
+			"contentType": "audio/mpeg"
 		}
 	]
 }]
