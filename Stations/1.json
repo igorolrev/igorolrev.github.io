@@ -4,6 +4,7 @@
 	"stationImageUrl": "ec01c48946a18a44c080ebb240655d15",
 	"website": "radiostrfm.ru",
 	"country": "ru",
+	"category": "Pop",
 	"streams": [{
 			"bitrate": 48,
 			"stream": "radiostrfm.no-ip.biz:8000/48",
