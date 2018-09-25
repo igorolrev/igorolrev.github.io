@@ -1,0 +1,31 @@
+[
+{
+	stationId: 8000001,
+	name: "STR FM",
+	stationImageUrl: "ec01c48946a18a44c080ebb240655d15",
+	website: "radiostrfm.ru",
+	country: "ru",
+	streams: [
+		{
+			bitrate: "48",
+			url: "radiostrfm.no-ip.biz:8000/48",
+			type: "audio/mpeg"
+		},
+		{
+			bitrate: "128",
+			url: "radiostrfm.no-ip.biz:8000/live",
+			type: "audio/mpeg"
+		},
+		{
+			bitrate: "192",
+			url: "rradiostrfm.no-ip.biz:8000/192",
+			type: "audio/mpeg"
+		},
+		{
+			bitrate: "320",
+			url: "radiostrfm.no-ip.biz:8000/320",
+			type: "audio/mpeg"
+		}
+	]
+}
+]
