@@ -1,0 +1,14 @@
+[{
+	"stationId": 90000000,
+	"name": "Radio Freja",
+	"stationImageUrl": "a50baa6fdd5cdd3904886e6266b66251",
+	"website": "https://www.radiofreja.dk",
+	"country": "dk",
+	"category": "Pop",
+	"streams": [{
+			"bitrate": 192,
+			"stream": "http://cristina.torontocast.com:8054/live",
+			"contentType": "audio/mpeg"
+		}
+	]
+}]
