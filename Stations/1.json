@@ -8,6 +8,7 @@
 	"instagram": "http://www.instagram.com/radiofreja",
 	"country": "dk",
 	"category": "Pop",
+	"serviceId": "dk.radiofreja",
 	"streams": [{
 			"bitrate": 192,
 			"stream": "http://cristina.torontocast.com:8054/live",
