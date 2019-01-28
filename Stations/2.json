@@ -1,0 +1,19 @@
+[{
+	"stationId": 90000001,
+	"name": "Радио MAXIMUM Волгоград",
+	"stationImageUrl": "maximumvolgograd",
+	"website": "http://maximum.ru",
+	"twitter": "",
+	"facebook": "",
+	"instagram": "https://instagram.com/radiomaximum/",
+	"vk": "https://vk.com/maximum_volgograd"
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"streams": [{
+			"bitrate": 96,
+			"stream": "http://92.39.96.58:8100/maximum",
+			"contentType": "audio/aacp"
+		}
+	]
+}]
