@@ -19,6 +19,11 @@
 			"stream": "http://92.39.96.58:8100/maximum",
 			"contentType": "audio/aacp"
 		}
+	],
+	"deleteStreams": [
+		"0922d77799b44ce3661d2de07fd734937d6103d1b8e20a518e135453a1935f0d",
+		"2fc9c6b18967a1729b39381f730cfe6c4005e0a62c8b23fc127e370b88190823",
+		"7704b6e762fc9c8bb7d652c3d65ae19fc0bd5f9928ae02c5479583f6c72283b3"
 	]
 },
 {
