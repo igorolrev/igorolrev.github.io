@@ -1,0 +1,175 @@
+[{
+	"stationId": 38612,
+	"name": "Наше радио",
+	"keyWoards": "наше радио",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#DD2C22",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 64,
+			"stream": "https://nashe1.hostingradio.ru:80/nashe-64.mp3",
+			"contentType": "audio/mpeg"
+		},{
+			"bitrate": 128,
+			"stream": "http://nashe20.streamr.ru/nashe20-128.mp3",
+			"contentType": "audio/mpeg"
+		},{
+			"bitrate": 128,
+			"stream": "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000005,
+	"name": "Наше 2.0",
+	"keyWoards": "наше радио",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355r",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#FFFFFF",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 64,
+			"stream": "https://nashe1.hostingradio.ru:18000/nashe20-64.mp3",
+			"contentType": "audio/mpeg"
+		},{
+			"bitrate": 128,
+			"stream": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000006,
+	"name": "Наше Радио СПБ",
+	"keyWoards": "наше радио спб",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355a",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#DD2C22",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 128,
+			"stream": "http://nashe1.hostingradio.ru/nashespb128.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000007,
+	"name": "Наше Радио Екб",
+	"keyWoards": "наше радио екб",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355w",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#DD2C22",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 128,
+			"stream": "http://nasheekt.hostingradio.ru/nasheekt128.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+}
+,
+{
+	"stationId": 90000008,
+	"name": "Наше Классик Рок",
+	"keyWoards": "наше радио классик рок",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355az",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#DD2C22",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 128,
+			"stream": "http://nashe1.hostingradio.ru/nasheclassic.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000009,
+	"name": "Панки Хой!",
+	"keyWoards": "наше радио панки хой",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355av",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#FFFFFF",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 128,
+			"stream": "http://nashe1.hostingradio.ru/nashepunks.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000010,
+	"name": "Щас Спою",
+	"keyWoards": "наше радио щас спою",
+	"stationImageUrl": "bcbdc34aeb047473516f28fc3a8f7355as",
+	"website": "https://www.nashe.ru",
+	"twitter": "https://twitter.com/NasheRadio",
+	"facebook": "https://www.facebook.com/nasheradio",
+	"instagram": "https://www.instagram.com/nashe_ru/",
+	"vk": "https://vk.com/nashe",
+	"youtube": "",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#DD2C22",
+	"groupId": "nashe",
+	"streams": [{
+			"bitrate": 128,
+			"stream": "http://nashe1.hostingradio.ru/nashesongs.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+}
+]
