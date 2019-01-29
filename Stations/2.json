@@ -1,19 +1,112 @@
 [{
-	"stationId": 90000001,
-	"name": "Радио MAXIMUM Волгоград",
-	"stationImageUrl": "maximumvolgograd",
+	"stationId": 38758,
+	"name": "Радио Максимум",
+	"keyWoards": "радио максимум maximum"
+	"stationImageUrl": "9db79f2c4503706cb05a197c4374",
 	"website": "http://maximum.ru",
 	"twitter": "",
 	"facebook": "",
 	"instagram": "https://instagram.com/radiomaximum/",
-	"vk": "https://vk.com/maximum_volgograd",
+	"vk": "https://vk.com/radiomaximum",
+	"youtube": "https://www.youtube.com/channel/UCcm71GX4an34344ximBhukw"
 	"country": "ru",
 	"category": "Rock",
 	"serviceId": "",
+	"color": "#2F2E2C",
 	"streams": [{
 			"bitrate": 96,
 			"stream": "http://92.39.96.58:8100/maximum",
 			"contentType": "audio/aacp"
 		}
 	]
-}]
+},
+{
+	"stationId": 90000001,
+	"name": "Радио Максимум - Metallica",
+	"keyWoards": "радио максимум maximum metallica"
+	"stationImageUrl": "f2dc2af15b023802e044e6a96c0f",
+	"website": "http://maximum.ru",
+	"twitter": "",
+	"facebook": "",
+	"instagram": "https://instagram.com/radiomaximum/",
+	"vk": "https://vk.com/radiomaximum",
+	"youtube": "https://www.youtube.com/channel/UCcm71GX4an34344ximBhukw"
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#2F2E2C",
+	"streams": [{
+			"bitrate": 96,
+			"stream": "https://metallica.hostingradio.ru/metallica96.aacp",
+			"contentType": "audio/aacp"
+		}
+	]
+},
+{
+	"stationId": 90000002,
+	"name": "Радио Максимум - Depeche Mode",
+	"keyWoards": "радио максимум maximum depeche mode"
+	"stationImageUrl": "456099e766ebdc905056761094e0",
+	"website": "http://maximum.ru",
+	"twitter": "",
+	"facebook": "",
+	"instagram": "https://instagram.com/radiomaximum/",
+	"vk": "https://vk.com/radiomaximum",
+	"youtube": "https://www.youtube.com/channel/UCcm71GX4an34344ximBhukw"
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#2F2E2C",
+	"streams": [{
+			"bitrate": 96,
+			"stream": "https://depechemode.hostingradio.ru/depechemode96.aacp",
+			"contentType": "audio/aacp"
+		}
+	]
+},
+{
+	"stationId": 90000003,
+	"name": "Радио Максимум - Девяностые",
+	"keyWoards": "радио максимум maximum девяностые 90"
+	"stationImageUrl": "6fab408f702321f0f254e4246826",
+	"website": "http://maximum.ru",
+	"twitter": "",
+	"facebook": "",
+	"instagram": "https://instagram.com/radiomaximum/",
+	"vk": "https://vk.com/radiomaximum",
+	"youtube": "https://www.youtube.com/channel/UCcm71GX4an34344ximBhukw"
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#2F2E2C",
+	"streams": [{
+			"bitrate": 96,
+			"stream": "https://maximum90.hostingradio.ru/maximum9096.aacp",
+			"contentType": "audio/aacp"
+		}
+	]
+}
+,
+{
+	"stationId": 90000004,
+	"name": "Радио Максимум - Rock Hits",
+	"keyWoards": "радио максимум maximum rock hits"
+	"stationImageUrl": "0c3defd14306cd71996432d12084",
+	"website": "http://maximum.ru",
+	"twitter": "",
+	"facebook": "",
+	"instagram": "https://instagram.com/radiomaximum/",
+	"vk": "https://vk.com/radiomaximum",
+	"youtube": "https://www.youtube.com/channel/UCcm71GX4an34344ximBhukw"
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#2F2E2C",
+	"streams": [{
+			"bitrate": 96,
+			"stream": "https://rockhits.hostingradio.ru/rockhits96.aacp",
+			"contentType": "audio/aacp"
+		}
+	]
+}
+]
