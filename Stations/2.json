@@ -14,6 +14,7 @@
 	"serviceId": "",
 	"color": "#2F2E2C",
 	"groupId": "maximum",
+	"rootStation": true,
 	"streams": [{
 			"bitrate": 96,
 			"stream": "http://92.39.96.58:8100/maximum",

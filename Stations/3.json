@@ -14,6 +14,7 @@
 	"serviceId": "",
 	"color": "#DD2C22",
 	"groupId": "nashe",
+	"rootStation": true,
 	"streams": [{
 			"bitrate": 64,
 			"stream": "https://nashe1.hostingradio.ru:80/nashe-64.mp3",
