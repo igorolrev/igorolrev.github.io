@@ -1,0 +1,24 @@
+[
+{
+	"stationId": 90000011,
+	"name": "Rádio Anténa Rock",
+	"keyWoards": "rádio anténa rock radio antena radio miroslav",
+	"stationImageUrl": "0a1b20526ae8ac39d7c7b25170a1f7bb",
+	"website": "https://www.antenarock.sk",
+	"twitter": "",
+	"facebook": "https://www.facebook.com/463156667037867",
+	"instagram": "https://www.instagram.com/antenarock",
+	"vk": "",
+	"youtube": "https://www.youtube.com/channel/UCt0T8cLZj0b-0WyCqZ95MtA",
+	"country": "sk",
+	"category": "Rock",
+	"serviceId": "",
+	"color": "#0B0B0B",
+	"streams": [{
+			"bitrate": 128,
+			"stream": "https://stream.radioservices.sk/antena-hi.mp3",
+			"contentType": "audio/mpeg"
+		}
+	]
+}
+]
