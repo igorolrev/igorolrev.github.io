@@ -1,0 +1,34 @@
+[{
+	"stationId": 90000012,
+	"name": "Радио Максимум Волгоград",
+	"keyWoards": "радио максимум maximum волгоград",
+	"stationImageUrl": "f2dc2af15b023802e044e6a96c0f9",
+	"website": "http://maximum.ru",
+	"twitter": "",
+	"facebook": "",
+	"instagram": "https://instagram.com/radiomaximum/",
+	"vk": "https://vk.com/maximum_volgograd",
+	"youtube": "https://www.youtube.com/channel/UCcm71GX4an34344ximBhukw",
+	"country": "ru",
+	"category": "Rock",
+	"serviceId": "ru.maximum",
+	"color": "#2F2E2C",
+	"groupId": "maximum",
+	"streams": [{
+			"bitrate": 96,
+			"stream": "https://maximum.hostingradio.ru/maximum96.aacp",
+			"contentType": "audio/aacp"
+		},
+		{
+			"bitrate": 48,
+			"stream": "https://maximum.hostingradio.ru/maximum48.aacp",
+			"contentType": "audio/aacp"
+		},
+		{
+			"bitrate": 128,
+			"stream": "https://maximum.hostingradio.ru/maximum48.aacp",
+			"contentType": "audio/mpeg"
+		}
+	]
+}
+]
