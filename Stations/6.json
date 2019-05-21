@@ -1,0 +1,29 @@
+[{
+	"stationId": 90000013,
+	"name": "Русская волна",
+	"keyWoards": "русская волна russian wave",
+	"stationImageUrl": "576e6e8c1ad71c7beb33a1be56ff16c9",
+	"website": "https://ru.volna.top/",
+	"twitter": "",
+	"facebook": "https://www.facebook.com/ruwavemsk",
+	"instagram": "",
+	"vk": "",
+	"youtube": "",
+	"country": "ru",
+	"category": "Pop",
+	"serviceId": "ru.russianwave",
+	"color": "#D8D8D8",
+	"groupId": "",
+	"streams": [{
+			"bitrate": 48,
+			"stream": "http://yp.shoutcast.com/sbin/tunein-station.xspf?id=1813795",
+			"contentType": "audio/aacp"
+		},
+		{
+			"bitrate": 48,
+			"stream": "http://ru1.volna.top/RuWave48",
+			"contentType": "audio/aacp"
+		}
+	]
+}
+]
