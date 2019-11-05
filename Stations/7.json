@@ -35,7 +35,7 @@
 	"streams": [{
 			"bitrate": 192,
 			"stream": "http://agnes.torontocast.com:8144/live",
-			"contentType": "audio/mpeg"
+			"contentType": "audio/mpeg" 
 		}
 	]
 },
