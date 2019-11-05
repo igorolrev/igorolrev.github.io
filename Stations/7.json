@@ -1,0 +1,61 @@
+[{
+	"stationId": 90000000,
+	"name": "Radio Freja",
+	"stationImageUrl": "a50baa6fdd5cdd3904886e6266b66251",
+	"website": "https://www.radiofreja.dk",
+	"twitter": "http://twitter.com/radiofreja",
+	"facebook": "http://www.facebook.com/radiofreja",
+	"instagram": "http://www.instagram.com/radiofreja",
+	"country": "dk",
+	"category": "Pop",
+	"serviceId": "dk.radiofreja",
+	"color": "#B81705",
+	"groupId": "freja",
+	"rootStation": true,
+	"streams": [{
+			"bitrate": 192,
+			"stream": "http://cristina.torontocast.com:8054/live",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000020,
+	"name": "Radio Freja Christmas",
+	"stationImageUrl": "a50baa6fdd5cdd3904886e6266b66253",
+	"website": "https://www.radiofreja.dk",
+	"twitter": "http://twitter.com/radiofreja",
+	"facebook": "http://www.facebook.com/radiofreja",
+	"instagram": "http://www.instagram.com/radiofreja",
+	"country": "dk",
+	"category": "Pop",
+	"serviceId": "dk.frejachristmas",
+	"color": "#820C02",
+	"groupId": "freja",
+	"streams": [{
+			"bitrate": 192,
+			"stream": "http://agnes.torontocast.com:8144/live",
+			"contentType": "audio/mpeg"
+		}
+	]
+},
+{
+	"stationId": 90000021,
+	"name": "Radio Freja Chill",
+	"stationImageUrl": "a50baa6fdd5cdd3904886e6266b662512",
+	"website": "https://www.radiofreja.dk",
+	"twitter": "http://twitter.com/radiofreja",
+	"facebook": "http://www.facebook.com/radiofreja",
+	"instagram": "http://www.instagram.com/radiofreja",
+	"country": "dk",
+	"category": "Pop",
+	"serviceId": "dk.frejachill",
+	"color": "#0B08C2",
+	"groupId": "freja",
+	"streams": [{
+			"bitrate": 192,
+			"stream": "http://bluford.torontocast.com:8430/live",
+			"contentType": "audio/mpeg"
+		}
+	]
+}]
