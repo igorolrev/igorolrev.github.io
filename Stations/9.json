@@ -1,0 +1,11 @@
+[{
+	"stationId": 12234,
+	"name": "Эхо Москвы",
+	"stationImageUrl": "7fbc0a086ebbb3c7f81d99253fccc88",
+	"streams": [{
+			"bitrate": 140,
+			"stream": "http://ice912.echo.msk.ru:9120/stream2",
+			"contentType": "audio/mpeg"
+		}
+	] 
+}]
