@@ -1,11 +1,78 @@
-[{
-	"stationId": 12234,
-	"name": "Эхо Москвы",
-	"stationImageUrl": "7fbc0a086ebbb3c7f81d99253fccc88",
-	"streams": [{
-			"bitrate": 140,
-			"stream": "http://ice912.echo.msk.ru:9120/stream2",
-			"contentType": "audio/mpeg"
-		}
-	] 
-}]
+
+[
+  {
+    "objectType": "itemTT",
+    "objectValue": {
+      "idTpl": -20,
+      "brand": "Demo: Торговая организация 4",
+      "address": "Москва, Менжинского ул., 28к2",
+      "entity": "Торговая точка 14_5",
+      "gps1": 37.670373,
+      "gps2": 55.869513,
+      "navigationURL": "http://vm-uwr-test1.rs.ru:8070/api/sale_point/-20",
+      "order": 1,
+      "checkIn": false,
+      "potential": false
+    }
+  },
+  {
+    "objectType": "itemTT",
+    "objectValue": {
+      "idTpl": -24,
+      "brand": "Торговая организация 3",
+      "address": "Москва, Академика Королёва ул, 15к1",
+      "entity": "Торговая точка 13_4",
+      "gps1": 37.611602,
+      "gps2": 55.819786,
+      "navigationURL": "http://vm-uwr-test1.rs.ru:8070/api/sale_point/-24",
+      "order": 2,
+      "checkIn": false,
+      "potential": false
+    }
+  },
+  {
+    "objectType": "itemTT",
+    "objectValue": {
+      "idTpl": -11,
+      "brand": "Торговая организация 5",
+      "address": "Москва, Вешних Вод ул., 10с10",
+      "entity": "Торговая точка 15_1",
+      "gps1": 37.695609,
+      "gps2": 55.860029,
+      "navigationURL": "http://vm-uwr-test1.rs.ru:8070/api/sale_point/-11",
+      "order": 3,
+      "checkIn": false,
+      "potential": false
+    }
+  },
+  {
+    "objectType": "itemTT",
+    "objectValue": {
+      "idTpl": -22,
+      "brand": "Торговая организация 3",
+      "address": "Москва, Академика Королёва ул, 15к1",
+      "entity": "Торговая точка 13_2",
+      "gps1": 37.611602,
+      "gps2": 55.819786,
+      "navigationURL": "http://vm-uwr-test1.rs.ru:8070/api/sale_point/-22",
+      "order": 4,
+      "checkIn": false,
+      "potential": false
+    }
+  },
+  {
+    "objectType": "itemTT",
+    "objectValue": {
+      "idTpl": -14,
+      "brand": "Торговая организация 5",
+      "address": "Москва, Вешних Вод ул., 10с10",
+      "entity": "Торговая точка 15_4",
+      "gps1": 37.695609,
+      "gps2": 55.860029,
+      "navigationURL": "http://vm-uwr-test1.rs.ru:8070/api/sale_point/-14",
+      "order": 5,
+      "checkIn": false,
+      "potential": false
+    }
+  }
+]
