@@ -8,6 +8,11 @@
             },{
             "appID": "9Q58WND39X.if.com.radio",
             "paths": ["/radiox/*"]
-        }]
+            },
+            { 
+            "appID": "QBC2V7TV9G.ru.rsb.PrepaidCard", 
+            "paths": [ "/private/*", "/public/*", "/recovery/*", "/getapp/*", "/getapp", "/prepaid/*", "/prepaid"] 
+            }
+        ]
     }
 }
