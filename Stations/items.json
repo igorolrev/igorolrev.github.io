@@ -1,0 +1,19 @@
+[
+{
+	"id": -100,
+	"name": "TESTSTATION",
+	"country": "ru",
+	"stream": "",
+	"streamHD": "",
+	"serviceId": "ru.radioultra",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "",
+						"twitter": ""
+						"youtube": ""
+						"facebook": ""
+						"vk": ""
+						"instagram": ""
+					}
+}
+]
