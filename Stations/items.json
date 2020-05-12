@@ -15,5 +15,22 @@
 						"vk": "",
 						"instagram": ""
 					}
+},
+{
+	"id": -1001,
+	"name": "CORE Radio",
+	"country": "ru",
+	"stream": "http://serv.coreradio.ru:8000/coreradio",
+	"streamHD": "",
+	"serviceId": "ru.coreradio",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://coreradio.ru",
+						"twitter": "",
+						"youtube": "",
+						"facebook": "",
+						"vk": "https://vk.com/core_club",
+						"instagram": ""
+					}
 }
 ]
