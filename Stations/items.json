@@ -35,7 +35,7 @@
 },
 {
 	"id": -1002,
-	"name": "НАШЕ 2.0",
+	"name": "НАШЕ 2.0 - Наше радио",
 	"country": "ru",
 	"stream": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
 	"streamHD": "",
@@ -69,7 +69,7 @@
 },
 {
 	"id": -1004,
-	"name": "НАШЕ Радио ЕКБ",
+	"name": "НАШЕ Радио ЕКБ - Наше радио",
 	"country": "ru",
 	"stream": "https://nasheekt.hostingradio.ru:80/nasheekt128.mp3",
 	"streamHD": "",
@@ -86,7 +86,7 @@
 },
 {
 	"id": -1005,
-	"name": "Классик Рок",
+	"name": "Классик Рок - Наше радио",
 	"country": "ru",
 	"stream": "http://nashe1.hostingradio.ru/nasheclassic.mp3",
 	"streamHD": "",
@@ -103,7 +103,7 @@
 },
 {
 	"id": -1006,
-	"name": "Панки Хой!",
+	"name": "Панки Хой! - Наше радио",
 	"country": "ru",
 	"stream": "http://nashe1.hostingradio.ru/nashepunks.mp3",
 	"streamHD": "",
@@ -120,7 +120,7 @@
 },
 {
 	"id": -1007,
-	"name": "Щас спою",
+	"name": "Щас спою - Наше радио",
 	"country": "ru",
 	"stream": "http://nashe1.hostingradio.ru/nashesongs.mp3",
 	"streamHD": "",
@@ -133,6 +133,176 @@
 						"facebook": "https://www.facebook.com/nasheradio",
 						"vk": "http://vk.com/nashe",
 						"instagram": ""
+					}
+},
+{
+	"id": -1008,
+	"name": "Legends JAZZ - Jazz FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/jlstream.mp3",
+	"streamHD": "",
+	"serviceId": "ru.jazzlegend",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://radiojazzfm.ru",
+						"twitter": "",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/radioJazz89.1fm/",
+						"vk": "https://vk.com/radiojazz",
+						"instagram": "https://www.instagram.com/radiojazz89.1fm/"
+					}
+},
+{
+	"id": -1009,
+	"name": "Smooth JAZZ - Jazz FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/sjstream.mp3",
+	"streamHD": "",
+	"serviceId": "ru.jazzsmooth",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://radiojazzfm.ru",
+						"twitter": "",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/radioJazz89.1fm/",
+						"vk": "https://vk.com/radiojazz",
+						"instagram": "https://www.instagram.com/radiojazz89.1fm/"
+					}
+},
+{
+	"id": -1010,
+	"name": "Vocals - Jazz FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/jvstream.mp3",
+	"streamHD": "",
+	"serviceId": "ru.jazzvocals",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://radiojazzfm.ru",
+						"twitter": "",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/radioJazz89.1fm/",
+						"vk": "https://vk.com/radiojazz",
+						"instagram": "https://www.instagram.com/radiojazz89.1fm/"
+					}
+},
+{
+	"id": -1011,
+	"name": "Classic - Jazz FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+	"streamHD": "",
+	"serviceId": "ru.jazzclassic",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://radiojazzfm.ru",
+						"twitter": "",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/radioJazz89.1fm/",
+						"vk": "https://vk.com/radiojazz",
+						"instagram": "https://www.instagram.com/radiojazz89.1fm/"
+					}
+},
+{
+	"id": -1012,
+	"name": "PROG - Rock FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/prog.mp3",
+	"streamHD": "",
+	"serviceId": "ru.rockprog",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.rockfm.ru",
+						"twitter": "https://twitter.com/rockfm95_2",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/rockfm95.2",
+						"vk": "https://vk.com/rockfm",
+						"instagram": "https://www.instagram.com/rock_fm/"
+					}
+},
+{
+	"id": -1013,
+	"name": "HEAVY - Rock FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+	"streamHD": "",
+	"serviceId": "ru.rockheavy",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.rockfm.ru",
+						"twitter": "https://twitter.com/rockfm95_2",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/rockfm95.2",
+						"vk": "https://vk.com/rockfm",
+						"instagram": "https://www.instagram.com/rock_fm/"
+					}
+},
+{
+	"id": -1014,
+	"name": "00s - Rock FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/rock00.mp3",
+	"streamHD": "",
+	"serviceId": "ru.rock00",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.rockfm.ru",
+						"twitter": "https://twitter.com/rockfm95_2",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/rockfm95.2",
+						"vk": "https://vk.com/rockfm",
+						"instagram": "https://www.instagram.com/rock_fm/"
+					}
+},
+{
+	"id": -1015,
+	"name": "90s - Rock FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/rock90.mp3",
+	"streamHD": "",
+	"serviceId": "ru.rock90",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.rockfm.ru",
+						"twitter": "https://twitter.com/rockfm95_2",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/rockfm95.2",
+						"vk": "https://vk.com/rockfm",
+						"instagram": "https://www.instagram.com/rock_fm/"
+					}
+},
+{
+	"id": -1016,
+	"name": "80s - Rock FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/rock80.mp3",
+	"streamHD": "",
+	"serviceId": "ru.rock80",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.rockfm.ru",
+						"twitter": "https://twitter.com/rockfm95_2",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/rockfm95.2",
+						"vk": "https://vk.com/rockfm",
+						"instagram": "https://www.instagram.com/rock_fm/"
+					}
+},
+{
+	"id": -1017,
+	"name": "70s - Rock FM",
+	"country": "ru",
+	"stream": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
+	"streamHD": "",
+	"serviceId": "ru.rock70",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.rockfm.ru",
+						"twitter": "https://twitter.com/rockfm95_2",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/rockfm95.2",
+						"vk": "https://vk.com/rockfm",
+						"instagram": "https://www.instagram.com/rock_fm/"
 					}
 }
 ]
