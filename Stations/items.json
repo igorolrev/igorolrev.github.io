@@ -32,5 +32,107 @@
 						"vk": "https://vk.com/core_club",
 						"instagram": ""
 					}
+},
+{
+	"id": -1002,
+	"name": "НАШЕ 2.0",
+	"country": "ru",
+	"stream": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+	"streamHD": "",
+	"serviceId": "ru.nashe20",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.nashe.ru",
+						"twitter": "https://twitter.com/NasheRadio",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/nasheradio",
+						"vk": "http://vk.com/nashe",
+						"instagram": ""
+					}
+},
+{
+	"id": -1003,
+	"name": "НАШЕ Радио СПБ",
+	"country": "ru",
+	"stream": "https://nashe1.hostingradio.ru:80/nashespb128.mp3",
+	"streamHD": "",
+	"serviceId": "ru.nashespb",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.nashe.ru",
+						"twitter": "https://twitter.com/NasheRadio",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/nasheradio",
+						"vk": "http://vk.com/nashe",
+						"instagram": ""
+					}
+},
+{
+	"id": -1004,
+	"name": "НАШЕ Радио ЕКБ",
+	"country": "ru",
+	"stream": "https://nasheekt.hostingradio.ru:80/nasheekt128.mp3",
+	"streamHD": "",
+	"serviceId": "ru.nasheekb",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.nashe.ru",
+						"twitter": "https://twitter.com/NasheRadio",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/nasheradio",
+						"vk": "http://vk.com/nashe",
+						"instagram": ""
+					}
+},
+{
+	"id": -1005,
+	"name": "Классик Рок",
+	"country": "ru",
+	"stream": "http://nashe1.hostingradio.ru/nasheclassic.mp3",
+	"streamHD": "",
+	"serviceId": "ru.nasheclassicrock",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.nashe.ru",
+						"twitter": "https://twitter.com/NasheRadio",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/nasheradio",
+						"vk": "http://vk.com/nashe",
+						"instagram": ""
+					}
+},
+{
+	"id": -1006,
+	"name": "Панки Хой!",
+	"country": "ru",
+	"stream": "http://nashe1.hostingradio.ru/nashepunks.mp3",
+	"streamHD": "",
+	"serviceId": "ru.nashepanki",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.nashe.ru",
+						"twitter": "https://twitter.com/NasheRadio",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/nasheradio",
+						"vk": "http://vk.com/nashe",
+						"instagram": ""
+					}
+},
+{
+	"id": -1007,
+	"name": "Щас спою",
+	"country": "ru",
+	"stream": "http://nashe1.hostingradio.ru/nashesongs.mp3",
+	"streamHD": "",
+	"serviceId": "ru.nashesongs",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "https://www.nashe.ru",
+						"twitter": "https://twitter.com/NasheRadio",
+						"youtube": "",
+						"facebook": "https://www.facebook.com/nasheradio",
+						"vk": "http://vk.com/nashe",
+						"instagram": ""
+					}
 }
 ]
