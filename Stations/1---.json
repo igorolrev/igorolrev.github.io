@@ -1,0 +1,29 @@
+[{
+	"stationId": 8000001,
+	"name": "STR FM",
+	"stationImageUrl": "ec01c48946a18a44c080ebb240655d15",
+	"website": "radiostrfm.ru",
+	"country": "ru",
+	"category": "Pop",
+	"streams": [{
+			"bitrate": 48,
+			"stream": "radiostrfm.no-ip.biz:8000/48",
+			"contentType": "audio/mpeg"
+		},
+		{
+			"bitrate": 128,
+			"stream": "radiostrfm.no-ip.biz:8000/live",
+			"contentType": "audio/mpeg"
+		},
+		{
+			"bitrate": 192,
+			"stream": "rradiostrfm.no-ip.biz:8000/192",
+			"contentType": "audio/mpeg"
+		},
+		{
+			"bitrate": 320,
+			"stream": "radiostrfm.no-ip.biz:8000/320",
+			"contentType": "audio/mpeg"
+		}
+	]
+}]
