@@ -17,6 +17,23 @@
 					}
 },
 {
+	"id": -1000,
+	"name": "JPopsuki",
+	"country": "jp",
+	"stream": "http://jpopsuki.fm:8000/stream",
+	"streamHD": "",
+	"serviceId": "jp.jpopsuki",
+	"typeItem": "CRT",
+	"social": 	{
+						"website": "http://jpopsuki.fm",
+						"twitter": "",
+						"youtube": "",
+						"facebook": "",
+						"vk": "",
+						"instagram": ""
+					}
+},
+{
 	"id": -1001,
 	"name": "CORE Radio",
 	"country": "ru",
