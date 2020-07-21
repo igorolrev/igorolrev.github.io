@@ -4,6 +4,7 @@
 			"urlImage": "https://i.imgur.com/4XPhOvj.png",
 			"backgroundColor": "",
 			"backgroundAlpha": 50,
+			"corner": 20,
 			"size": {
 					"width": 100,
     				"height": 50,
@@ -17,6 +18,7 @@
 			"urlImage": "https://i.imgur.com/UaoloCQ.png",
 			"backgroundColor": "",
 			"backgroundAlpha": 50,
+			"corner": 0,
 			"size": {
 					"width": 100,
     				"height": 50,
@@ -36,6 +38,7 @@
 			},
 			"backgroundColor": "",
 			"backgroundAlpha": 50,
+			"corner": 10,
 			"size": {
 					"width": 100,
     				"height": 50,
