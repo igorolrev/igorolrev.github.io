@@ -3,8 +3,8 @@
 			"time": 10,
 			"urlImage": "https://i.imgur.com/4XPhOvj.png",
 			"backgroundColor": "#E02020",
-			"backgroundAlpha": 30,
-			"corner": 20,
+			"backgroundAlpha": 0,
+			"corner": 0,
 			"size": {
 					"width": 300,
     				"height": 200,
@@ -12,7 +12,9 @@
     				"top": 20
 			}
 		}
+		
 		,
+		
 		{
 			"time": 10,
 			"urlImage": "https://i.imgur.com/UaoloCQ.png",
@@ -26,7 +28,9 @@
     				"top": 20
 			}
 		}
+		
 		,
+		
 		{
 			"time": 10,
 			"text": "HJ KAJDFGH kdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
@@ -41,9 +45,9 @@
 			"corner": 10,
 			"size": {
 					"width": 400,
-    				"height": 400,
     				"right": 10,
     				"top": 20
 			}
 		}
+		
 ]
