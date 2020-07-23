@@ -33,7 +33,7 @@
 		
 		{
 			"time": 10,
-			"text": "Some<i>TEST</i> <b>BOLD</b>LINE 1</br>LINE 2",
+			"text": "<big>BIG</big> <big><big>BIGBIG</big></big> Some<i>TEST</i> <b>BOLD</b>LINE 1</br>LINE 2",
 			"textOptions": {
 				"size" : 50,
 				"aligment": "center",
