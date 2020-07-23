@@ -33,7 +33,7 @@
 		
 		{
 			"time": 10,
-			"text": "Some <b>BOLD</b> TEXT 1 </br> TEXT 2<h2>HEADER</h2>",
+			"text": "Some<i>TEST<i> <b>BOLD</b>LINE 1</br>LINE 2",
 			"textOptions": {
 				"size" : 20,
 				"aligment": "left",
