@@ -33,7 +33,7 @@
 		
 		{
 			"time": 10,
-			"text": "HJ KAJDFGH\n\nkdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
+			"text": "Some <b>BOLD</b> TEXT <h1>HEADER</h1>",
 			"textOptions": {
 				"size" : 20,
 				"aligment": "left",
