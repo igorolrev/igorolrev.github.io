@@ -33,10 +33,10 @@
 		
 		{
 			"time": 10,
-			"text": "Some<i>TEST</i> <b>BOLD</b>LINE 1</br>LINE 2",
+			"text": "HJ KAJDFGH kdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
 			"textOptions": {
-				"size" : 50,
-				"aligment": "center",
+				"size" : 20,
+				"aligment": "left",
 				"textColor": "#6DD400",
 				"textAlpha": 70
 			},
