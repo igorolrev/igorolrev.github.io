@@ -35,7 +35,7 @@
 			"time": 10,
 			"text": "<big>BIG</big> <big><big>BIGBIG</big></big> Some<i>TEST</i> <b>BOLD</b>LINE 1</br>LINE 2",
 			"textOptions": {
-				"size" : 50,
+				"size" :150,
 				"aligment": "center",
 				"textColor": "#6DD400",
 				"textAlpha": 70
