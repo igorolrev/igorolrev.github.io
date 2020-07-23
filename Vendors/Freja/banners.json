@@ -33,7 +33,7 @@
 		
 		{
 			"time": 10,
-			"text": "HJ KAJDFGH kdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
+			"text": "HJ KAJDFGH\n\nkdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
 			"textOptions": {
 				"size" : 20,
 				"aligment": "left",
