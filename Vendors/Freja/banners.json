@@ -2,17 +2,46 @@
  {
     	"time": 10,
     	"gif": 	{
-    			"urlImage": "http://www.gifbin.com/bin/4802swswsw04.gif",
+    			"urlImage": "https://i.gifer.com/5EeH.gif",
    			 	"backgroundColor": "#E02020",
     		 	"backgroundAlpha": 0,
     		 	"corner": 20,
     		 		"size": {
-      					"width": 200,
-      					"height": 74,
+      					"width": 240,
+      					"height": 344,
       					"right": -20,
       					"top": 10
     				}
-    		}
+    		},
+    	"image": 	{
+    			"urlImage": "https://i.imgur.com/kCzYjeT.png",
+   			 	"backgroundColor": "#E02020",
+    		 	"backgroundAlpha": 0,
+    		 	"corner": 0,
+    		 		"size": {
+      					"width": 200,
+      					"height": 74,
+      					"right": -20,
+      					"top": 100
+    				}
+    		},
+    	"text": {
+    			"text": "CAT",
+    			"textOptions": {
+      					"size": 190,
+      					"aligment": "left",
+      					"textColor": "#FFFFFF",
+      					"textAlpha": 100
+    			},
+    			"backgroundColor": "#000000",
+    			"backgroundAlpha": 0,
+    			"corner": 10,
+    			"size": {
+      					"width": 450,
+      					"right": -30,
+      					"top": 130
+    			}
+    }
   },
   {
     	"time": 5,
