@@ -1,4 +1,19 @@
 [
+ {
+    	"time": 10,
+    	"gif": 	{
+    			"urlImage": "http://www.gifbin.com/bin/4802swswsw04.gif",
+   			 	"backgroundColor": "#E02020",
+    		 	"backgroundAlpha": 0,
+    		 	"corner": 20,
+    		 		"size": {
+      					"width": 200,
+      					"height": 74,
+      					"right": -20,
+      					"top": 10
+    				}
+    		}
+  },
   {
     	"time": 5,
     	"image": 	{
@@ -14,7 +29,8 @@
     				}
     		}
   },
-  {
+  
+    {
     	"time": 5,
     	"image": {
     			"urlImage": "https://i.imgur.com/kixredk.png?1",
