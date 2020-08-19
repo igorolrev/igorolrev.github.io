@@ -1,192 +1,116 @@
 [
- {
-    	"time": 10,
-    	"gif": 	{
-    			"urlImage": "https://i.gifer.com/5EeH.gif",
-   			 	"backgroundColor": "#E02020",
-    		 	"backgroundAlpha": 0,
-    		 	"corner": 20,
-    		 		"size": {
-      					"width": 240,
-      					"height": 344,
-      					"right": -20,
-      					"top": 10
-    				}
-    		},
-    	"image": 	{
-    			"urlImage": "https://i.imgur.com/kCzYjeT.png",
-   			 	"backgroundColor": "#E02020",
-    		 	"backgroundAlpha": 0,
-    		 	"corner": 0,
-    		 		"size": {
-      					"width": 200,
-      					"height": 74,
-      					"right": -20,
-      					"top": 100
-    				}
-    		},
-    	"text": {
-    			"text": "CAT",
-    			"textOptions": {
-      					"size": 190,
-      					"aligment": "left",
-      					"textColor": "#FFFFFF",
-      					"textAlpha": 100
-    			},
-    			"backgroundColor": "#000000",
-    			"backgroundAlpha": 0,
-    			"corner": 10,
-    			"size": {
-      					"width": 450,
-      					"right": -30,
-      					"top": 130
-    			}
+  {
+    "time": 10,
+    "gif": {
+      "urlImage": "",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 20,
+      "size": {
+        "width": 150,
+        "height": 150,
+        "right": -20,
+        "top": -50
+      }
+    },
+    "image": {
+      "urlImage": "https://i.imgur.com/87fVxW5.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 450,
+        "height": 700,
+        "right": -30,
+        "top": 280
+      }
+    },
+    "text": {
+      "text": "<b>RADIO FREJA APP</b></br></br>Du kan tage Radio Freja <i>med dig overalt.</i></br>Hent vores app i AppStore eller GooglePlay",
+      "textOptions": {
+        "size": 200,
+        "aligment": "left",
+        "textColor": "#FFFFFF",
+        "textAlpha": 100
+      },
+      "backgroundColor": "#000000",
+      "backgroundAlpha": 0,
+      "corner": 10,
+      "size": {
+        "width": 450,
+        "right": -30,
+        "top": 130
+      }
     }
   },
   {
-    	"time": 5,
-    	"image": 	{
-    			"urlImage": "https://i.imgur.com/kCzYjeT.png",
-   			 	"backgroundColor": "#E02020",
-    		 	"backgroundAlpha": 0,
-    		 	"corner": 0,
-    		 		"size": {
-      					"width": 200,
-      					"height": 74,
-      					"right": -20,
-      					"top": 10
-    				}
-    		}
-  },
-  
-    {
-    	"time": 5,
-    	"image": {
-    			"urlImage": "https://i.imgur.com/kixredk.png?1",
-   			 	"backgroundColor": "#E02020",
-    			"backgroundAlpha": 0,
-    			"corner": 0,
-    			"size": {
-      					"width": 200,
-      					"height": 48,
-      					"right": -20,
-      					"top": 10
-    			}
-    	}	
-  },
-  {
-    	"time": 5,
-    	"image": {
-    			"urlImage": "https://i.imgur.com/8pe0poV.png?1",
-    			"backgroundColor": "#E02020",
-    			"backgroundAlpha": 0,
-   			 	"corner": 0,
-    			"size": {
-      					"width": 200,
-      					"height": 46,
-      					"right": -20,
-      					"top": 10
-    			}
-    	}
-  },
-  {
-    	"time": 5,
-    	"image": {
-    			"urlImage": "https://i.imgur.com/CILXlWQ.png?1",
-    			"backgroundColor": "#E02020",
-    			"backgroundAlpha": 0,
-    			"corner": 0,
-    			"size": {
-      					"width": 200,
-      					"height": 46,
-      					"right": -20,
-      					"top": 20
-    			}
-    	}
-  },
-  {
-    	"time": 15,
-    	"image": {
-    			"urlImage": "https://i.imgur.com/8CZZXq7.png",
-    			"backgroundColor": "#E02020",
-    			"backgroundAlpha": 0,
-    			"corner": 0,
-    			"size": {
-      					"width": 450,
-      					"height": 700,
-      					"right": -30,
-      					"top": 130
-   	 			}
-    	}
-  },
-  {
-    	"time": 3,
-    	"image": {
-    			"urlImage": "",
-    			"backgroundColor": "#E02020",
-    			"backgroundAlpha": 0,
-    			"corner": 0,
-    			"size": {
-      					"width": 200,
-      					"height": 46,
-      					"right": -10,
-      					"top": 20
-    			}
-    	}
-  },
-  {
-    "time": 15,
-    "text": {
-    		"text": "<b>VEJRUDSIGTEN:</b></br></br>Resten af dagen mest tørt og nogen sol.</br>I nat tørt og til dels klart vejr, men i Vestjylland efterhånden mest skyet.</br>Temp. ned mellem 7 og 12 grader, og svag til jævn vind mellem sydvest og nordvest, ved Kattegatkyster stedvis op til frisk vind.</br></br>Torsdag starter de fleste steder tørt med nogen eller i de østlige egne en del sol, men efterhånden mere skyet fra vest og der kan komme lidt regn hist og her.</br>Temp. op mellem 14 og 21 grader, køligst i den vestlige del, og svag til jævn vind fra vest og sydvest.",
-    		"textOptions": {
-      				"size": 190,
-      				"aligment": "left",
-      				"textColor": "#FFFFFF",
-      				"textAlpha": 100
-    		},
-    		"backgroundColor": "#000000",
-    		"backgroundAlpha": 0,
-    		"corner": 10,
-    		"size": {
-      				"width": 450,
-      				"right": -30,
-      				"top": 130
-    		}
+    "time": 5,
+    "image": {
+      "urlImage": "https://i.imgur.com/kCzYjeT.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 74,
+        "right": -20,
+        "top": 10
+      }
     }
   },
   {
     "time": 15,
     "text": {
-    		"text": "<b>NYHEDER:</b></br></br>Fly fra Sverige og Tyskland samt to danske helikoptere er netop nu i færd med en større redningsaktion..</br>Årsagen er, at et fragtskib ved Bornholm har meldt et besætningsmedlem savnet, og de frygter, at manden er faldet over bord.</br></br>Det er Forsvarets Operationscenter, der ifølge B.T har oplyst, at skibet var på vej mod Riga i Letland. Derfor efterforskes der nu i et stort område.</br>Civile er ligeledes blevet bedt om at holde udkig efter besætningsmedlemmet, der er forsvundet.",
-    		"textOptions": {
-      				"size": 190,
-      				"aligment": "left",
-      				"textColor": "#FFFFFF",
-      				"textAlpha": 100
-    		},
-    		"backgroundColor": "#000000",
-    		"backgroundAlpha": 0,
-    		"corner": 10,
-    		"size": {
-     				"width": 450,
-      				"right": -30,
-      				"top": 130
-    		}
+      "text": "<b>NYHEDER</b></br>Politi afblæser stor aktion i Nordsjælland</br></br>Betjente, polititeknikere og flere hunde afsøgte fra tidligt torsdag morgen et område mellem Vejby og Tisvildeleje. Det skyldes, at Nordsjællands Politi kort før klokken 06 havde modtaget en anmeldelse om en sædelighedsforbrydelse.</br></br>Omkring middagstid var undersøgelserne dog ovre, oplyser Henriette Døssing, presse- og kommunikationskonsulent ved Nordsjællands Politi.",
+      "textOptions": {
+        "size": 200,
+        "aligment": "left",
+        "textColor": "#FFFFFF",
+        "textAlpha": 100
+      },
+      "backgroundColor": "#000000",
+      "backgroundAlpha": 0,
+      "corner": 10,
+      "size": {
+        "width": 450,
+        "right": -30,
+        "top": 130
+      }
+    }
+  },
+  {
+    "time": 15,
+    "text": {
+      "text": "<b>VEJRUDSIGTEN</b></br></br>",
+      "textOptions": {
+        "size": 190,
+        "aligment": "left",
+        "textColor": "#FFFFFF",
+        "textAlpha": 100
+      },
+      "backgroundColor": "#000000",
+      "backgroundAlpha": 0,
+      "corner": 10,
+      "size": {
+        "width": 450,
+        "right": -30,
+        "top": 130
+      }
     }
   },
   {
     "time": 3,
     "image": {
-    		"urlImage": "",
-    		"backgroundColor": "#E02020",
-    		"backgroundAlpha": 0,
-    		"corner": 0,
-    		"size": {
-     				 "width": 200,
-      				"height": 46,
-      				"right": -10,
-      				"top": 20
-    		}
+      "urlImage": "",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 46,
+        "right": -10,
+        "top": 20
+      }
     }
   }
 ]
