@@ -1,7 +1,7 @@
 [
   {
         "name": "Freja",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#5163A0",
         "backgroundImageURL": "https://igorolrev.github.io/Vendors/Freja/background_freja.png",
         "logoImageURL": "https://igorolrev.github.io/Vendors/Freja/logo_freja.png",
         "carPlayLogoURL": "https://igorolrev.github.io/Vendors/Freja/car_freja.png",
@@ -29,7 +29,7 @@
     },
      {
         "name": "Rock",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#FF0000",
         "backgroundImageURL": "https://igorolrev.github.io/Vendors/Freja/background_rock.png",
         "logoImageURL": "https://igorolrev.github.io/Vendors/Freja/logo_rock.png",
         "carPlayLogoURL": "https://igorolrev.github.io/Vendors/Freja/car_rock.png",
