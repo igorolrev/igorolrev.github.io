@@ -1,116 +1,42 @@
 [
-  {
-    "time": 10,
-    "gif": {
-      "urlImage": "",
-      "backgroundColor": "#E02020",
-      "backgroundAlpha": 0,
-      "corner": 20,
-      "size": {
-        "width": 150,
-        "height": 150,
-        "right": -20,
-        "top": -50
-      }
+    {
+        "time": 5,
+        "image": "https://i.pinimg.com/originals/a2/99/91/a29991ceb05921747ff0635636ce3cbc.gif"
     },
-    "image": {
-      "urlImage": "https://i.imgur.com/87fVxW5.png",
-      "backgroundColor": "#E02020",
-      "backgroundAlpha": 0,
-      "corner": 0,
-      "size": {
-        "width": 450,
-        "height": 700,
-        "right": -30,
-        "top": 280
-      }
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/MT3NCMt.png"
     },
-    "text": {
-      "text": "<b>RADIO FREJA APP</b></br></br>Du kan tage Radio Freja <i>med dig overalt.</i></br>Hent vores app i AppStore eller GooglePlay",
-      "textOptions": {
-        "size": 200,
-        "aligment": "left",
-        "textColor": "#FFFFFF",
-        "textAlpha": 100
-      },
-      "backgroundColor": "#000000",
-      "backgroundAlpha": 0,
-      "corner": 10,
-      "size": {
-        "width": 450,
-        "right": -30,
-        "top": 130
-      }
-    }
-  },
-  {
-    "time": 5,
-    "image": {
-      "urlImage": "https://i.imgur.com/kCzYjeT.png",
-      "backgroundColor": "#E02020",
-      "backgroundAlpha": 0,
-      "corner": 0,
-      "size": {
-        "width": 200,
-        "height": 74,
-        "right": -20,
-        "top": 10
-      }
-    }
-  },
-  {
-    "time": 15,
-    "text": {
-      "text": "<b>NYHEDER</b></br>Politi afblæser stor aktion i Nordsjælland</br></br>Betjente, polititeknikere og flere hunde afsøgte fra tidligt torsdag morgen et område mellem Vejby og Tisvildeleje. Det skyldes, at Nordsjællands Politi kort før klokken 06 havde modtaget en anmeldelse om en sædelighedsforbrydelse.</br></br>Omkring middagstid var undersøgelserne dog ovre, oplyser Henriette Døssing, presse- og kommunikationskonsulent ved Nordsjællands Politi.",
-      "textOptions": {
-        "size": 200,
-        "aligment": "left",
-        "textColor": "#FFFFFF",
-        "textAlpha": 100
-      },
-      "backgroundColor": "#000000",
-      "backgroundAlpha": 0,
-      "corner": 10,
-      "size": {
-        "width": 450,
-        "right": -30,
-        "top": 130
-      }
-    }
-  },
-  {
-    "time": 15,
-    "text": {
-      "text": "<b>VEJRUDSIGTEN</b></br></br>",
-      "textOptions": {
-        "size": 190,
-        "aligment": "left",
-        "textColor": "#FFFFFF",
-        "textAlpha": 100
-      },
-      "backgroundColor": "#000000",
-      "backgroundAlpha": 0,
-      "corner": 10,
-      "size": {
-        "width": 450,
-        "right": -30,
-        "top": 130
-      }
-    }
-  },
-  {
-    "time": 3,
-    "image": {
-      "urlImage": "",
-      "backgroundColor": "#E02020",
-      "backgroundAlpha": 0,
-      "corner": 0,
-      "size": {
-        "width": 200,
-        "height": 46,
-        "right": -10,
-        "top": 20
-      }
-    }
-  }
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/IWRUvzB.png"
+    },
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/WLICfHA.png"
+    },
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/Q0ph8BD.png"
+    },
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/MT3NCMt.png"
+    },
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/IWRUvzB.png"
+    },
+    {
+        "time": 5,
+        "image": "https://i.imgur.com/WLICfHA.png"
+    },
+    {
+        "time": 20,
+        "image": "https://i.imgur.com/Ihylaso.png"
+    },
+    {
+        "time": 20,
+        "image": "https://i.imgur.com/n76NwX9.png"
+   }
 ]
