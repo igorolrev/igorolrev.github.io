@@ -423,4 +423,5 @@
 {"id":-1109,"name": "Absolut Lovesongs","country": "de","stream": "https://absolut-lovesongs.live.absolutradio.de","streamHD": "","serviceId": "de.absolutlovesongs","typeItem": "CRT","social": 	{ "website": "https://absolutradio.de", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
 {"id":-1110,"name": "KISS FM","country": "es","stream": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3","streamHD": "","serviceId": "es.kissfm","typeItem": "CRT","social": 	{ "website": "https://www.kissfm.es", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
 {"id":-1111,"name": "ONDA AZUL TORREVIEJA ","country": "es","stream": "http://usa3.lhdserver.es:8198/stream","streamHD": "","serviceId": "es.ondaazulradio","typeItem": "CRT","social": 	{ "website": "https://absolutradio.de", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}}
+
 ]
