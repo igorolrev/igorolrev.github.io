@@ -437,6 +437,10 @@
 {"id":-1114,"name": "Arabella Kult","country": "de","stream": "https://live.stream.radioarabella.de/radioarabella-arabellakult/stream/mp3?aggregator=other","streamHD": "https://live.stream.radioarabella.de/radioarabella-arabellakult?aggregator=other","serviceId": "de.arabellakult","typeItem": "CRT","social": 	{ "website": "https://www.radioarabella.de", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
 {"id":-1115,"name": "Arabella Bayern","country": "de","stream": "https://live.stream.radioarabella.de/radioarabella-bayern/stream/mp3?aggregator=other","streamHD": "https://live.stream.radioarabella.de/radioarabella-bayern?aggregator=other","serviceId": "de.arabellabayern","typeItem": "CRT","social": 	{ "website": "https://www.radioarabella.de", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
 
-{"id":-1116,"name": "TSN Radio 1050","country": "ca","stream": "https://27053.live.streamtheworld.com/CHUMAMAAC.aac","streamHD": "","serviceId": "ca.tsnradio1050","typeItem": "CRT","social": 	{ "website": "www.tsn.ca/radio/toronto-1050", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}}
+{"id":-1116,"name": "TSN Radio 1050","country": "ca","stream": "https://27053.live.streamtheworld.com/CHUMAMAAC.aac","streamHD": "","serviceId": "ca.tsnradio1050","typeItem": "CRT","social": 	{ "website": "www.tsn.ca/radio/toronto-1050", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
+
+{"id":-1117,"name": "Blues radio,"country": "gr","stream": "https://i4.streams.ovh/sc/bluesrad/stream","streamHD": "","serviceId": "gr.blues.radio","typeItem": "CRT","social": 	{ "website": "https://bluesradio.gr", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
+
+{"id":-1118,"name": "FLASHBACK FM,"country": "ch","stream": "https://stream.streambase.ch/ffm/mp3-192/direct/","streamHD": "","serviceId": "ch.flashbackfm","typeItem": "CRT","social": 	{ "website": "https://www.flashbackfm.ch", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}}
 
 ]
