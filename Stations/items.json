@@ -439,8 +439,8 @@
 
 {"id":-1116,"name": "TSN Radio 1050","country": "ca","stream": "https://27053.live.streamtheworld.com/CHUMAMAAC.aac","streamHD": "","serviceId": "ca.tsnradio1050","typeItem": "CRT","social": 	{ "website": "www.tsn.ca/radio/toronto-1050", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
 
-{"id":-1117,"name": "Blues radio,"country": "gr","stream": "https://i4.streams.ovh/sc/bluesrad/stream","streamHD": "","serviceId": "gr.blues.radio","typeItem": "CRT","social": 	{ "website": "https://bluesradio.gr", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
+{"id":-1117,"name": "Blues radio","country": "gr","stream": "https://i4.streams.ovh/sc/bluesrad/stream","streamHD": "","serviceId": "gr.blues.radio","typeItem": "CRT","social": 	{ "website": "https://bluesradio.gr", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}},
 
-{"id":-1118,"name": "FLASHBACK FM,"country": "ch","stream": "https://stream.streambase.ch/ffm/mp3-192/direct/","streamHD": "","serviceId": "ch.flashbackfm","typeItem": "CRT","social": 	{ "website": "https://www.flashbackfm.ch", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}}
+{"id":-1118,"name": "FLASHBACK FM", "country": "ch","stream": "https://stream.streambase.ch/ffm/mp3-192/direct/","streamHD": "","serviceId": "ch.flashbackfm","typeItem": "CRT","social": 	{ "website": "https://www.flashbackfm.ch", "twitter": "", "youtube": "", "facebook": "", "vk": "", "instagram": ""}}
 
 ]
