@@ -2,19 +2,46 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "9Q58WND39X.if.com.radio-ios-iad", "9Q58WND39X.if.com.radio" ,"QBC2V7TV9G.ru.rsb.PrepaidCard"],
+             "appIDs": [ "QBC2V7TV9G.ru.rsb.mobbank", "QBC2V7TV9G.ru.rsb.MobBankSwift" ],
              "components": [
                {
-                  "/": "/radios/*"
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
                },
                {
-                  "/": "/radiox/*"
+                  "/": "/private/*",
+                  "comment": ""
                },
                {
-                  "/": "/prepaid/*"
+                  "/": "/cat/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/recovery/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/p/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/getapp/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/welcome/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/dbo/*",
+                  "comment": ""
                }
              ]
            }
        ]
+   },
+   "webcredentials": {
+      "apps": [ "QBC2V7TV9G.ru.rsb.MobBankSwift" ]
    }
 }
